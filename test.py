@@ -1,2 +1,2 @@
-
+I think that I have gotten confused and the AI is not providing any insight into what the problem is. I am somehow not understanding what the format of the input should be and I am getting no useful feedback on this front. I got this mixed up in part 2 and now I have no idea what to even do for this in part 3. I think this would have been better if the assignment itself had been clearer or if there were a combination of more traditional automated feedback and AI. I can't get the AI alone to give me the feedback I need to figure out my misunderstanding. 
 
