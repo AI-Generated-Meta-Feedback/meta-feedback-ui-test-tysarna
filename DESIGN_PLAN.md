@@ -1,1 +1,1 @@
-
+I am choosing to use insertion sort for this problem. This is because insertion sort is stable and best case O(n) as well. I am sorting by shelf number and the book with the lowest shelf number will be sorted to the beginning of the list, and it will also leave the books sorted in terms of their arrival time. This works because we need to have the books sorted by shelf but then also sub-sorted by arrival time. 
